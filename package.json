@@ -1,0 +1,30 @@
+{
+  "name": "randomcharts",
+  "version": "1.0.0",
+  "description": "A package to generate random test values for charts visualization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelvazz/randomcharts.git"
+  },
+  "keywords": [
+    "random",
+    "chart",
+    "test",
+    "value",
+    "generate"
+  ],
+  "author": "nelvazz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelvazz/randomcharts/issues"
+  },
+  "homepage": "https://github.com/Nelvazz/randomcharts#readme",
+  "dependencies": {
+    "chartjs-node-canvas": "^4.1.6",
+    "fs": "^0.0.1-security"
+  }
+}
